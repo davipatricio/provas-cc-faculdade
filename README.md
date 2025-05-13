@@ -1,14 +1,7 @@
-# Prova de Algoritmos e Estrutura de Dados
+# Avaliação Parcial 2
 
----
-
-## Pasta exercícios: [aqui](https://github.com/davipatricio/prova-cc-data-algo/tree/main/src/main/java/org/example)
-
-
-Integrantes: **Davi Patricio Gimenes**, **Natan Maurício da Silva**
-
-Professor: **Odair Gabriel**
-
-Curso: **Ciências da Computação**
-
-Turma: **3 semestre / manhã**
+**Nome**: Davi Patricio Gimenes - 2401557
+**Matéria**: Análise e Projeto de Algoritmos
+**Professor**: Odair Gabriel
+**Curso**: Ciência da Computação
+**Turma**: 3° semestre / manhã
