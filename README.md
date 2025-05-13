@@ -1,14 +1,9 @@
-# Prova de Algoritmos e Estrutura de Dados
+# Provas Ciência da Computação
 
----
+## Algoritmos e Estrutura de Dados
 
-## Pasta exercícios: [aqui](https://github.com/davipatricio/prova-cc-data-algo/tree/main/src/main/java/org/example)
+- [Marco/2025](https://github.com/davipatricio/provas-cc-faculdade/tree/ap01-marco-2025) | AP01
 
+## Análise e Projeto de Algoritmos 
 
-Integrantes: **Davi Patricio Gimenes**, **Natan Maurício da Silva**
-
-Professor: **Odair Gabriel**
-
-Curso: **Ciências da Computação**
-
-Turma: **3 semestre / manhã**
+- [Maio/2025](https://github.com/davipatricio/provas-cc-faculdade/tree/ap02-maio-2025) | AP02
