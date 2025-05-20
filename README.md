@@ -2,8 +2,8 @@
 
 ## Algoritmos e Estrutura de Dados
 
-- [Marco/2025](https://github.com/davipatricio/provas-cc-faculdade/tree/ap01-marco-2025) | AP01
+- [Marco/2025](https://github.com/davipatricio/provas-cc-faculdade/tree/2025/march-ap01-data-structures) | AP01
 
 ## Análise e Projeto de Algoritmos 
 
-- [Maio/2025](https://github.com/davipatricio/provas-cc-faculdade/tree/ap02-maio-2025) | AP02
+- [Maio/2025](https://github.com/davipatricio/provas-cc-faculdade/tree/2025/may-ap02-algorithms-analysis) | AP02
